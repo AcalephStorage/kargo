@@ -1,5 +1,5 @@
 # Valid bootstrap options (required): ubuntu, coreos, centos, none
-bootstrap_os: none
+bootstrap_os: ubuntu
 
 # Directory where the binaries will be installed
 bin_dir: /usr/local/bin
